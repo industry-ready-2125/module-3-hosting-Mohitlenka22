@@ -510,7 +510,7 @@ p {
   flex-direction: column;
 }
 #pro-header {
-  width: 100%;
+  /* width: 100%; */
   background-color: rgb(40, 39, 39);
   border-bottom: 1px solid #3a3838;
 }
