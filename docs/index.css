@@ -503,7 +503,6 @@ p {
 /* -------------------------------Go Pro---------------------------------------- */
 
 .go-pro-body {
-
   overflow: scroll;
 }
 .main-body {
@@ -858,7 +857,7 @@ table svg {
 
 .plan-btn {
   position: absolute;
-  top: 162rem;
+  top: 155rem;
   left: 35rem;
   display: flex;
   flex-direction: column;
