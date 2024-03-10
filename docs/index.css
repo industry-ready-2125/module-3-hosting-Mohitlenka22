@@ -755,7 +755,7 @@ p {
   position: absolute;
   bottom: 0;
   left: 0;
-  top: 171rem;
+  top: 175rem;
   right: 0;
   z-index: 0;
   height: 10rem;
@@ -836,7 +836,6 @@ table {
 }
 
 .table-con {
-  /* height: 5rem; */
   height: 100px;
   position: absolute;
   top: 115rem;
@@ -849,21 +848,13 @@ tbody {
 
 .table-con {
   max-height: 70%;
-  max-width: 1200px; /* Adjust the width as needed */
+  max-width: 1200px; 
 }
 
 .table-list {
   width: 200%;
 }
 
-.table-list-main {
-  width: 60%; /* Adjust the width of the first column */
-}
-
-.table-list-free,
-.table-list-pro {
-  width: 30%; /* Adjust the width of the second and third columns */
-}
 
 table svg {
   height: 15px;
