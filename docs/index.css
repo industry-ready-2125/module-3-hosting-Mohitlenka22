@@ -825,6 +825,7 @@ table {
 
 .table-list th,
 .table-list td {
+  padding: 20px;
   border-bottom: 1px solid rgba(62, 62, 62, 0.1);
 }
 .deca {
@@ -839,14 +840,9 @@ tbody {
   width: 530px;
 }
 
-.table-con {
-  max-height: 70%;
-  max-width: 1200px; 
-}
-
 .table-list {
   position: relative;
-  bottom: 60rem;
+  bottom: 55rem;
   width: 200%;
 }
 
@@ -857,7 +853,7 @@ table svg {
 
 .plan-btn {
   position: absolute;
-  top: 155rem;
+  top: 168rem;
   left: 35rem;
   display: flex;
   flex-direction: column;
