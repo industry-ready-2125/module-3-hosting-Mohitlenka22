@@ -838,7 +838,7 @@ table {
 .table-con {
   height: 100px;
   position: absolute;
-  top: 115rem;
+  top: 120rem;
   left: 27rem;
 }
 tbody {
@@ -862,7 +862,7 @@ table svg {
 
 .plan-btn {
   position: absolute;
-  top: 157rem;
+  top: 162rem;
   left: 35rem;
   display: flex;
   flex-direction: column;
