@@ -503,8 +503,7 @@ p {
 /* -------------------------------Go Pro---------------------------------------- */
 
 .go-pro-body {
-  min-height: 100vh;
-  overflow-y: scroll;
+  overflow: scroll;
 }
 .main-body {
   display: flex;
