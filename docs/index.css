@@ -504,7 +504,7 @@ p {
 
 .go-pro-body {
   min-height: 100vh;
-  overflow: scroll;
+  overflow-y: scroll;
 }
 .main-body {
   display: flex;
