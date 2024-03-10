@@ -503,7 +503,7 @@ p {
 /* -------------------------------Go Pro---------------------------------------- */
 
 .go-pro-body {
-  overflow: scroll;
+  min-height: 10vh;
 }
 .main-body {
   display: flex;
@@ -755,7 +755,7 @@ p {
   position: absolute;
   bottom: 0;
   left: 0;
-  top: 180rem;
+  bottom: 23rem;
   right: 0;
   z-index: 0;
   height: 10rem;
@@ -834,13 +834,6 @@ table {
 .table-list tr:first-child th.table-list-highlight {
   border-radius: 4px 4px 0 0;
 }
-
-.table-con {
-  height: 100px;
-  position: relative;
-  bottom: 60rem;
-  left: 10rem;
-}
 tbody {
   height: 480px;
   width: 530px;
@@ -852,6 +845,8 @@ tbody {
 }
 
 .table-list {
+  position: relative;
+  bottom: 60rem;
   width: 200%;
 }
 
